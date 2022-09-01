@@ -12,6 +12,8 @@ public class 메뉴리뉴얼 {
 
         solution(orders, course);
 
+
+
     }
     public static HashMap<String,Integer> map;
     public static String[] solution(String[] orders, int[] course) {
